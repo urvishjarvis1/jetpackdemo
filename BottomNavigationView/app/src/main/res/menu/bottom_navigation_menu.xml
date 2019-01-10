@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/firstFragment"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="@string/home_bottom_nav_item_title"/>
+    <item
+        android:id="@+id/secondFragment"
+        android:icon="@drawable/ic_exposure_plus_1_black_24dp"
+        android:title="@string/screen_bottom_nav_title"/>
+    <item
+        android:id="@+id/thirdFragment"
+        android:icon="@drawable/ic_exposure_plus_2_black_24dp"
+        android:title="@string/screen_bottom_nav_title"/>
+</menu>

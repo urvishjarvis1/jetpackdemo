@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SliceDemo</string>
+    <string name="increase">increase</string>
+    <string name="decrease">decrease</string>
+</resources>

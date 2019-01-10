@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WorkManagerDemo</string>
+    <string name="simple_work">Simple Work</string>
+    <string name="charging">Charging</string>
+    <string name="idle">idle</string>
+    <string name="wifi">Wifi</string>
+    <string name="none">none</string>
+    <string name="periodic_work">periodic work</string>
+    <string name="cancle_work">cancle work</string>
+    <string name="chain_work">chain work</string>
+    <string name="parallel_work">parallel work</string>
+</resources>
